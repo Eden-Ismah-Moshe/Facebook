@@ -1,0 +1,12 @@
+﻿  Date.cpp
+  Facebook.cpp
+  FanPage.cpp
+C:\Users\User\OneDrive\Documents\C++ - project\Facebook\Facebook\FanPage.cpp(139,34): warning C4018: '>': signed/unsigned mismatch
+  InputFunctions.cpp
+  main.cpp
+  Status.cpp
+  Time.cpp
+  User.cpp
+C:\Users\User\OneDrive\Documents\C++ - project\Facebook\Facebook\User.cpp(225,34): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  Facebook.vcxproj -> C:\Users\User\OneDrive\Documents\C++ - project\Facebook\Debug\Facebook.exe
